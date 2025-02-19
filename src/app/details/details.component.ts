@@ -77,7 +77,7 @@ export class DetailsComponent {
     email: new FormControl("", Validators.email),
   });
   constructor() {
-    const housingLocationId = parseInt(this.route.snapshot.params["id"], 10);
+    /* const housingLocationId = parseInt(this.route.snapshot.params["id"], 10);
     this.housingService
       .getHousingLocationById(housingLocationId)
       .then((housingLocation) => {
@@ -86,7 +86,7 @@ export class DetailsComponent {
 
       if (localStorage.getItem("formData")) {
         this.applyForm.setValue(JSON.parse(localStorage.getItem("formData") ?? "{}"));
-      }
+      } */
   }
 
 
