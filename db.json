@@ -10,8 +10,8 @@
       "wifi": true,
       "laundry": true,
       "coordinates": {
-        "latitude": 41.8781,
-        "longitude": -87.6298
+        "latitude": 36.7182412029134,
+        "longitude": -4.4700502862659155
       },
       "seguridad": [
         "alarmas"
@@ -27,8 +27,8 @@
       "wifi": false,
       "laundry": true,
       "coordinates": {
-        "latitude": 34.0195,
-        "longitude": -118.4912
+        "latitude": 36.69551823172288,
+        "longitude": -4.457040993244471
       },
       "seguridad": [
         "alarmas"
